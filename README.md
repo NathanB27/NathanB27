@@ -1,7 +1,5 @@
 ---
 
-# Nathan's GitHub
-
 ## Bienvenue sur mon profil GitHub ! 👋
 
 Je suis **Nathan**, étudiant en **développement informatique** et actuellement à l’**école 42 de Paris**. Passionné par la programmation et les technologies, je mets en pratique mes compétences en développement logiciel à travers des projets académiques et personnels.
