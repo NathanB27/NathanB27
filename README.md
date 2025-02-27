@@ -6,20 +6,17 @@ Je suis **Nathan**, étudiant en **développement informatique** et actuellement
 
 ---
 
-## À propos de moi
+## À mon propos 
 
-- 🎓 **Parcours académique** :
-  - J'ai suivi **un an de DUT Statistique et Informatique Décisionnelle** avant de m'orienter vers l'école **42 de Paris**, où je me spécialise dans la programmation et la résolution de problèmes complexes.
-- 💻 **Compétences principales** :
-  - Programmation en **Python**, **C**.
-  - Développement web avec **Django** et **React**.
-  - Algorithmes, gestion de la mémoire, et optimisation du code.
+ -  Actuellement, je suis étudiant à l'école 42 de Paris.
+ -  Je suis également en train de suivre une formation de développement Solana chez Alyra. (financé entierement par la fondation SOLANA française)
+ -  Avant cela, j'ai suivi un an de DUT Statistique et Informatique Décisionnelle.
 ---
 
 ## Mes outils préférés 🛠️
 
-- **Environnements de développement** : VS Code, Neovim.
-- **Langages principaux** : Python, C.
+- **Environnements de développement** : Neovim, Oh My Zsh
+- **Langages principaux** : Python, C, Rust(Anchor).
 - **Outils cloud** : AWS SageMaker, Vercel.
 - **Contrôle de version** : Git, GitHub.
 
