@@ -9,21 +9,18 @@ Je suis **Nathan**, étudiant en **développement informatique** et actuellement
 ## À mon propos 
 
  -  Actuellement, je suis étudiant à l'école 42 de Paris.
- -  Je suis également en train de suivre une formation de développement Solana chez Alyra. (financé entierement par la fondation SOLANA française)
- -  Avant cela, j'ai suivi un an de DUT Statistique et Informatique Décisionnelle.
+ -  j'ai egalement suivi une formation de développement Solana chez Alyra.
+ -  Avant cela, j'ai suivi une annee de DUT Statistique et Informatique Décisionnelle.
 ---
 
 ## Mes outils préférés 🛠️
 
-- **Environnements de développement** : Neovim, Oh My Zsh
-- **Langages principaux** : Python, C, Rust(Anchor).
-- **Outils cloud** : AWS SageMaker, Vercel.
-- **Contrôle de version** : Git, GitHub.
-
+- **Environnements de développement** : Neovim (lazyvim), Oh My Zsh
+- **Langages principaux** : C++, C, Python, Rust.
 ---
 
 ## Me contacter 📬
 
-- 💼 **LinkedIn** : www.linkedin.com/in/nathan-boucher27
+- 💼 **LinkedIn** : www.linkedin.com/in/nathan-boucher42
 
 ---
