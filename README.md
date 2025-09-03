@@ -22,5 +22,6 @@ Je m'appelle **Nathan**, étudiant en **développement informatique** et actuell
 ## Me contacter 📬
 
 - 💼 **LinkedIn** : www.linkedin.com/in/nathan-boucher42
+- 📧 **Mail** : nathan.boucher27@gmail.com
 
 ---
