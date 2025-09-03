@@ -15,7 +15,7 @@ Je suis **Nathan**, étudiant en **développement informatique** et actuellement
 
 ## Mes outils préférés 🛠️
 
-- **Environnements de développement** : Neovim (lazyvim), Oh My Zsh
+- **Environnements de développement** : Neovim (lazyvim), wezterm
 - **Langages principaux** : C++, C, Python, Rust.
 ---
 
