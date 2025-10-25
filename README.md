@@ -2,9 +2,7 @@
 
 ## Bienvenue sur mon profil GitHub ! 👋
 
-Je m'appelle **Nathan**, étudiant en **développement informatique** et actuellement à l’**école 42 de Paris**. Passionné par la programmation et les technologies, je mets en pratique mes compétences en développement logiciel à travers des projets académiques et personnels.
-
----
+Je m'appelle **Nathan**, étudiant en **développement informatique** et actuellement à l’**école 42 de Paris**
 
 ## À mon propos 
 
@@ -16,7 +14,7 @@ Je m'appelle **Nathan**, étudiant en **développement informatique** et actuell
 ## Mes outils préférés 🛠️
 
 - **Environnements de développement** : Neovim (lazyvim), wezterm
-- **Langages principaux** : C++, C, Python, Rust.
+- **Langages principaux** : C++, C, Python.
 ---
 
 ## Me contacter 📬
