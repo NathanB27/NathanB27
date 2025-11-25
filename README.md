@@ -7,7 +7,7 @@ Je m'appelle **Nathan**, étudiant en **développement informatique** et actuell
 ## À mon propos 
 
  -  Actuellement, je suis étudiant à l'école 42 de Paris.
- -  j'ai egalement suivi une formation de développement Solana chez Alyra.
+ -  j'ai egalement suivi une formation de développement blockchain en RUST chez Alyra.
  -  Avant cela, j'ai suivi une annee de DUT Statistique et Informatique Décisionnelle.
 ---
 
